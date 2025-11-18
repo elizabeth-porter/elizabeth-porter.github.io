@@ -9,11 +9,12 @@ website:
   title: "Elizabeth Porter"
   navbar:
     pinned: true
-    right:
+    left:
       - href: index.qmd
         text: Home
       - about.qmd
       - cv.qmd
+    right:
       - icon: github
         href: http://github.com/elizabeth-porter
       - icon: linkedin
