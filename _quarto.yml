@@ -16,8 +16,10 @@ website:
       - cv.qmd
       - icon: github
         href: http://github.com/elizabeth-porter
+        target: _blank
       - icon: linkedin
         href: https://www.linkedin.com/in/elizabeth-porter-794771178/
+        target: _blank
       
 
 format:
