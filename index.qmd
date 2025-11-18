@@ -1,0 +1,15 @@
+---
+title: "Elizabeth Porter, MSc"
+---
+
+PhD Candidate, Department of Integrative Biology, University of Guelph
+
+------------------------------------------------------------------------
+
+```{r}
+#| include: false
+# Prompt R
+Sys.Date()
+```
+
+Created with Quarto by Elizabeth Porter; Updated `r as.character(Sys.Date())`

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*qmd"
+
+
+website:
+  title: "Elizabeth Porter"
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - cv.qmd
+      - icon: github
+        href: http://github.com/elizabeth-porter
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elizabeth-porter-794771178/
+      
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
