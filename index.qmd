@@ -4,11 +4,20 @@ title: "Elizabeth Porter, MSc"
 
 PhD Candidate, Department of Integrative Biology, University of Guelph
 
-<img src="images/liz_point_pelee.jpg" style="width:600px; max-width: 100%; margin-top:15px; margin-bottom: 30px;"/>
+__Email:__ eporte02@uoguelph.ca
 
-I'm currently a member of the [Cottenie Lab](https://karl-cottenie.github.io/people.html) and the [Jacobs Lab](http://www.shoshanahjacobs.ca/).
+![](images/liz_point_pelee_2025.jpg)
 
-![Birding hike with the Cottenie Lab at the University of Guelph Arboretum](images/cottenie_lab.jpg){fig-align="center"}
+---
+
+I'm currently a doctoral researcher in the [Cottenie Lab](https://karl-cottenie.github.io){target="_blank"} and [Jacobs Lab](http://www.shoshanahjacobs.ca/){target="_blank"} at the University of Guelph.
+
+
+![Birding hike with the Cottenie Lab at the University of Guelph Arboretum](images/cottenie_lab_2025.jpg)
+
+
+![Jacobs Lab social at The Wooly](images/jacobs_lab_2024.jpg)
+
 
 ------------------------------------------------------------------------
 
