@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Elizabeth Porter - Elizabeth Porter, MSc</title>
+<title>Elizabeth Porter - Digital Garden</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,7 +62,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -83,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -91,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./digital_garden.html" rel="" target="">
+    <a class="nav-link active" href="./digital_garden.html" rel="" target="" aria-current="page">
  <span class="menu-text">Digital Garden</span></a>
   </li>  
   <li class="nav-item">
@@ -124,13 +157,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Elizabeth Porter, MSc</h1>
+<h1 class="title">Digital Garden</h1>
 </div>
 
 
@@ -145,29 +178,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>PhD Candidate, Department of Integrative Biology, University of Guelph</p>
-<p><strong>Email:</strong> eporte02@uoguelph.ca</p>
-<p><img src="images/liz_point_pelee_2025.jpg" class="img-fluid"></p>
-<hr>
-<p>I’m currently a doctoral researcher in the <a href="https://karl-cottenie.github.io" target="_blank">Cottenie Lab</a> and <a href="http://www.shoshanahjacobs.ca/" target="_blank">Jacobs Lab</a> at the University of Guelph.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/cottenie_lab_2025.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Birding hike with the Cottenie Lab at the University of Guelph Arboretum</figcaption>
-</figure>
+<p>A collection of musings presented in the form of a Digital Garden.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/jacobs_lab_2024.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Jacobs Lab social at The Wooly</figcaption>
-</figure>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
-<hr>
-<p>Created with Quarto by Elizabeth Porter; Updated 2025-12-19</p>
+</div><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-
-
-</main> <!-- /main -->
+<ol>
+<li id="fn1"><p>What exactly is a Digital Garden? Check out <a href="https://maggieappleton.com/garden-history">A Brief History &amp; Ethos of the Digital Garden</a> by Maggie Appleton.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

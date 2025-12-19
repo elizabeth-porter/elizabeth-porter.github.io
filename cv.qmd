@@ -3,4 +3,128 @@ title: "CV"
 toc: true
 ---
 
-Under construction! Come back soon!
+## Education
+
+**PhD Candidate (2022 - present, anticipated graduation 2027)\
+**University of Guelph, Integrative Biology\
+Supervisors: Dr. Karl Cottenie and Dr. Shoshanah Jacobs
+
+**MSc (2020 - 2022)**\
+University of Guelph, Integrative Biology\
+Supervisors: Dr. Karl Cottenie and Dr. Shoshanah Jacobs\
+Thesis: [The Squirrel Life Project: An Accessible Framework for Experiential Learning](https://atrium.lib.uoguelph.ca/items/78cb15be-11ab-434b-81df-d0e182b9a9ee)
+
+**BSc, Honours with Distinction (2014 - 2018)**\
+University of Guelph, Bio-Medical Sciences and Zoology\
+Major Research Project: Aerobic Exercise as a Treatment for Major Depressive Disorder\
+Supervisor: Dr. Genevieve Newton
+
+Major Research Project: Does rearing environment influence the effect of single nucleotide polymorphisms on the genetics of skeletal traits in laying hens?\
+Supervisor: Dr. Gregoy Bédécarrats
+
+## Publications
+
+### Invited Publications
+
+Jacobs, S., **Porter, E.**, Dowhaniuk, D., Lipton, M., Bazely, D., Smith, M. A., Zampaki, N., Karpouzou, P., Eggermont, M., Helms, M., Summers, M., Jones, A., Smylitopoulos, C., Clitheroe, H., Davies, A., Hinds Myrie, M., Gillis, D., Rivera, C., Benessaiah, K., Wanieck, K. (2024). Can Manufactured Ecosystems fully replace ecosystem services? *Zygote Quarterly,* 35, 40-53. <https://zqjournal.org/editions/zq35.html>
+
+### Peer-Reviewed Publications
+
+Myrie, M., Bohn, S., Waniek, K., Gillis, D., Jones, A., Clitheroe, H., Davies, A., **Porter, E.**, Dowhaniuk, D., Smylitopoulos, C., Benessaiah, K., Smith, M. A., Bazely, D., Jacobs, S. (2025). *Building and Sustaining Transdisciplinary Research Teams for Environmental Justice: Lessons from the Manufactured Ecosystems Project.* \[Under review at *Equity in Education & Society*\].
+
+**Porter, E.**, Cottenie, K., Smith, A. C., Jacobs, S. *Unsung Scientists*. \[In preparation\].
+
+**Porter, E.**, Cottenie, K. Jacobs, S. *Citizen Science is a Scalable Experiential Activity for Whole Person Learning in Post-Secondary Curriculum*. \[In preparation\].
+
+Jacobs, S., Zhang J., Wolf, E., **Porter, E.**, Bohn, S., Sparks, A., Eggermont, M., Summers, M., Rivera, C. I. R., Clitheroe, H., Gillis, D., Smith, M. A., Benessaiah, K., Jones, A., Davies, A., Helms, M., Bazely, D., Lipton, M., Dowhaniuk, D., van Vierssen Trip, N., Zampaki, N., Karpouzou, P., Wanieck, K. (2025). Are ecosystem services replaceable by technology yet? Bio-inspired technologies for ecosystem services: Challenges and opportunities. *Biomimetics*, 10(11), 784. <https://doi.org/10.3390/biomimetics10110784>
+
+Wanieck, K., Smith, M. A., **Porter, E.**, Zhang, J., Dowhaniuk, D., Jones, A., Gillis, D., Lipton, M., Hinds Myrie, M., Bazely, D., Eggermont, M., Summers, M., Smylitopoulos, C., Rivera Cardenas, C. I., Wolf, E., Karpouzou, P., Zampaki, N., Clitheroe, H., Davies, A., Castillo, A. H., Helms, M., Benessaiah, K., Jacobs, S. (2025). A call for bio-inspired technologies: Promises and challenges for ecosystem service replacement. *Biomimetics,* 10(9), 578. <https://doi.org/10.3390/biomimetics10090578>
+
+**Porter, E.**, Beltran, M., Jacobs, S. (2022). Curricular Nature-Based Learning in Higher Education to Support Mental and Environmental Health. *Health Science Inquiry,* 13, 98-107. <https://healthscienceinquiry.com/index.php/hsi/issue/view/14/15>\
+***Awarded best submission of the year.***
+
+Robertson, L., **Porter, E.**, Smith, M. A., Jacobs, S. (2021). Evidence-based course modification to support learner-centered and student-driven teaching in a pandemic: Leveraging digital and physical space for accessible, equitable, and motivating experiential learning and scientific inquiry in a first-year biology course. *International Journal of Higher Education,* 10(7), 96-109. <https://doi.org/10.5430/ijhe.v10n7p96>.
+
+### Conference Publications
+
+**Porter, E.**, Luo, M. X., Lit, B., McKechnie, I., Saha, J., Ratra, P., Lewis, N., Norman, Z., Cottenie, K., Jacobs, S., Gillis, D. (2022). Developing a transdisciplinary citizen science tool for experiential learning in undergraduate education: Squirrel Life in a nutshell. *16^th^ International Technology, Education and Development Conference.* <https://doi.org/10.21125/inted.2022.0535>
+
+Bianco, A., Morey, K., Arbour, K., Avey, S., Gu, C., Li, J., Lin, J., Lin, K., Oaks, C., **Porter, E.**, Zehr, L., Horner, K., Bock, J. (2019). Unlocking the untapped potential of volunteers: A contemporary re-imagining of the volunteer program. *International Association of Avian Trainers and Educators Conference*. Orlando, Florida.
+
+### Science Communication
+
+Porter, E. (2025, August 27 ). [Bat Roostmates Share More Than Just Space: Exploring the Invisible World of the Gut Microbiome.](https://www.uoguelph.ca/cbs/news/2025/08/bat-roostmates-share-more-just-space-exploring-invisible-world-gut-microbiome) College of Biological Sciences SCRIBE Research Highlights, University of Guelph.
+
+Porter, E. (2025, August 25). [Sparrow Supermoms: Why Some Female Birds ‘Double-Brood’.](https://www.uoguelph.ca/cbs/news/2025/08/sparrow-supermoms-why-some-female-birds-%E2%80%98double-brood%E2%80%99) College of Biological Sciences SCRIBE Research Highlights, University of Guelph.
+
+### Software
+
+Squirrel Life \[Android and iOS mobile application software\]. (2021). **Contributors: Porter, E.**,McKechnie, I., Lit, B., Saha, J., Luo, M. X., Norman, Z., Lewis, N., Jacobs, S., Cottenie, K., and Gillis, D. Citizen science data collection tool and user interface to record behavioural, geographic, and temporal data related to squirrels.
+
+Squirrel Life \[Data portal website\]. (2021). **Contributors: Porter, E.**, McKechnie, I., Lit, B., Saha, J., Luo, M. X., Norman, Z., Lewis, N., Jacobs, S., Cottenie, K., and Gillis, D. Citizen science data access portal to explore behavioural, geographic, and temporal data about squirrels collected with the Squirrel Life mobile app.
+
+## Research Grants & Awards
+
+### Research Grants
+
+-   Chantiers jeunesse - Social Impact Program grant (*Squirrel Life Project: Community Expansion*) (2023)
+-   Chantiers jeunesse - Social Entrepreneurship Program grant (*Community Gardening*) (2022)
+-   Chantiers jeunesse - Social Entrepreneurship Program grant (*Squirrel Life Project: Community Initiative*) (2021 - 2022)
+-   Associate Vice-President Academic Scholarship of Teaching and Learning grant (*Citizen Science for Experiential Learning*) (2021 - 2022)
+-   Guelph Institute for Environmental Research grant (*Squirrel Life: Combining Citizen and Computer Science*) (Jan. - Dec. 2021)
+-   Student Life Enhancement Fund (*Squirrel Life: Community Outreach*) (Jan. - Apr. 2021)
+-   Student Life Enhancement Fund (*Wild Ontario: Experiential Engagement*) (Aug. 2019)
+
+### Awards
+
+-   Ontario Chapter of the Wildlife Society First Place Oral Presentation (Mar. 2025)
+-   NSERC Canada Graduate Scholarship - Doctoral (CGS D) (2022 - 2026)
+-   Health Science Inquiry Journal Top Scholarly Perspective (Mar. 2022)
+-   Ontario Graduate Scholarship (OGS) (*declined due to NSERC*, 2022)
+-   Queen Elizabeth II Graduate Scholarship in Science and Technology (2021 - 2022)
+-   Ontario Ecology, Ethology, and Evolution Colloquium First Place 3-minute Thesis Competition (May 2021)
+-   University of Guelph Entrance Scholarship (2014)
+-   Harold W. Lee Memorial Scholarship (2014)
+-   Governor General's Bronze Medal for Academic Excellence (2014)
+
+## Media
+
+### [Manufactured Ecosystems](https://www.manufacturedecosystems.com/)
+
+**June 2025** Media attention surrounding the launch of the *Manufactured Ecosystems* exhibition:
+
+-   [Manufactured Ecosystems: Art Merges with Science to Rethink Climate Adaptation](https://news.uoguelph.ca/2025/06/manufactured-ecosystems-art-merges-with-science-to-rethink-climate-adaptation/)
+
+-   [U of G exhibit ponders a world of ecological collapse](https://www.guelphtoday.com/grounded/u-of-g-exhibit-ponders-a-world-of-ecological-collapse-10765961)
+
+### The Squirrel Life Project - Citizen Science for Experiential Learning
+
+**April 2022** Media attention surrounding the launch of the *Squirrel Life Project* for my [MSc research](https://atrium.lib.uoguelph.ca/items/78cb15be-11ab-434b-81df-d0e182b9a9ee):
+
+-   **CBC Radio Metro Morning** (Local). Media coverage of Squirrel Life Project community launch.
+
+-   **CBC Kitchener Waterloo** (Local). The Squirrel Life Project community event.
+
+-   **CBC New Brunswick** (Regional). Why should people care about squirrels?
+
+-   **to know the land** (Podcast). [Squirrel Life: connecting with the land in a good way.](https://www.toknowtheland.com/podcast/ep186)
+
+-   **CTV Kitchener** (Local). Interview to share the importance of connecting with nature.
+
+-   **Montreal Now** (Local). Connecting with nature through squirrel watching.
+
+-   **Ottawa Now** (Local). [University of Guelph students create an app for squirrel-watching](https://omny.fm/shows/580-cfra/ottawa-now-university-of-guelph-students-create-an)
+
+## Creative and Artistic Scholarship
+
+### Exhibition Catalogues
+
+Dowhaniuk, D. Eds: **Porter, E.**, Ponte, A., Yu, A., Hiemstra, H., Jandrew, S., Jacobs, S. (2025). [*Manufactured Ecosystems Program Guide and Education Booklet.*](https://www.manufacturedecosystems.com/manufactured-ecosystems-exhibition)
+
+### Exhibitions Curated
+
+**June - August 2025** [*Manufactured Ecosystems*](https://www.manufacturedecosystems.com/press-release)\
+**Co-curator** with collaborators Dowhaniuk, D., Ponte, A., Yu, A., Hiemstra, H., Jandrew, S.\
+Zavitz Gallery, University of Guelph. Guelph, ON.
+
+-   An immersive exhibition exploring speculative futures at the intersection of art, technology, and nature to address the climate crisis. Served as the public-facing centrepiece of an international research initiative supported by the Government of Canada’s New Frontiers in Research Fund. Featured interactive installations, speculative prototypes, and imaginative storytelling envisioning how humanity might adapt to ecological collapse through nature-inspired technologies.

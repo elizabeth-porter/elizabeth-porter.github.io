@@ -1,0 +1,12 @@
+---
+title: "Digital Garden"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: unnumbered
+---
+
+A collection of musings presented in the form of a Digital Garden.[^1]
+
+[^1]: What exactly is a Digital Garden? Check out [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) by Maggie Appleton.
