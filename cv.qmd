@@ -16,10 +16,10 @@ Thesis: [The Squirrel Life Project: An Accessible Framework for Experiential Lea
 
 **BSc, Honours with Distinction (2014 - 2018)**\
 University of Guelph, Bio-Medical Sciences and Zoology\
-Major Research Project: Aerobic Exercise as a Treatment for Major Depressive Disorder\
+Major Research Project: *Aerobic Exercise as a Treatment for Major Depressive Disorder*\
 Supervisor: Dr. Genevieve Newton
 
-Major Research Project: Does rearing environment influence the effect of single nucleotide polymorphisms on the genetics of skeletal traits in laying hens?\
+Major Research Project: *Does rearing environment influence the effect of single nucleotide polymorphisms on the genetics of skeletal traits in laying hens?*\
 Supervisor: Dr. Gregoy Bédécarrats
 
 ## Publications
@@ -53,15 +53,37 @@ Bianco, A., Morey, K., Arbour, K., Avey, S., Gu, C., Li, J., Lin, J., Lin, K., O
 
 ### Science Communication
 
-Porter, E. (2025, August 27 ). [Bat Roostmates Share More Than Just Space: Exploring the Invisible World of the Gut Microbiome.](https://www.uoguelph.ca/cbs/news/2025/08/bat-roostmates-share-more-just-space-exploring-invisible-world-gut-microbiome) College of Biological Sciences SCRIBE Research Highlights, University of Guelph.
+**Porter, E.** (2025, August 27 ). [Bat Roostmates Share More Than Just Space: Exploring the Invisible World of the Gut Microbiome.](https://www.uoguelph.ca/cbs/news/2025/08/bat-roostmates-share-more-just-space-exploring-invisible-world-gut-microbiome) College of Biological Sciences SCRIBE Research Highlights, University of Guelph.
 
-Porter, E. (2025, August 25). [Sparrow Supermoms: Why Some Female Birds ‘Double-Brood’.](https://www.uoguelph.ca/cbs/news/2025/08/sparrow-supermoms-why-some-female-birds-%E2%80%98double-brood%E2%80%99) College of Biological Sciences SCRIBE Research Highlights, University of Guelph.
+**Porter, E.** (2025, August 25). [Sparrow Supermoms: Why Some Female Birds ‘Double-Brood’.](https://www.uoguelph.ca/cbs/news/2025/08/sparrow-supermoms-why-some-female-birds-%E2%80%98double-brood%E2%80%99) College of Biological Sciences SCRIBE Research Highlights, University of Guelph.
 
 ### Software
 
 Squirrel Life \[Android and iOS mobile application software\]. (2021). **Contributors: Porter, E.**,McKechnie, I., Lit, B., Saha, J., Luo, M. X., Norman, Z., Lewis, N., Jacobs, S., Cottenie, K., and Gillis, D. Citizen science data collection tool and user interface to record behavioural, geographic, and temporal data related to squirrels.
 
 Squirrel Life \[Data portal website\]. (2021). **Contributors: Porter, E.**, McKechnie, I., Lit, B., Saha, J., Luo, M. X., Norman, Z., Lewis, N., Jacobs, S., Cottenie, K., and Gillis, D. Citizen science data access portal to explore behavioural, geographic, and temporal data about squirrels collected with the Squirrel Life mobile app.
+
+
+## Conference Presentations
+
+### Invited
+
+#### Keynote Address
+**Porter, E.,**, Beltran, M., and Jacobs, S. (2022, June 9 – 10). Curricular Nature-Based Learning in Higher Education to Support Mental and Environmental Health. 10th Annual Fear Memorial Conference, Dalhousie Medical School.\
+*Accredited Professional Development program for excellence in medical education.*
+
+#### Seminars and Symposia
+**Porter, E.**, Cottenie, K., and Jacobs, S. (2023). Meaningful connections through citizen science, creativity, and computer science. Guelph Institute for Environmental Research Spring Symposium, University of Guelph, Guelph ON. 
+
+**Porter, E.**, Cottenie, K., and Jacobs, S. (2022). Squirrel Life: An Interdisciplinary Venture. Guelph Institute for Environmental Research Perennial Symposium: Edge Effects, University of Guelph, virtual.
+
+## Community Presentations and Outreach
+2023, **University of Guelph Wildlife Club**, Graduate Research Paths in Ecology, Guelph ON. Role: Guest Speaker.
+
+2022, **Cambridge Public Library**, Squirrels in the City, Cambridge ON. Role: Guest Speaker.
+
+2022, **University of Guelph Wildlife Club**, Squirrel Life: Squirrels, science, and students, Guelph, ON. Role: Guest Speaker.
+
 
 ## Research Grants & Awards
 
@@ -127,4 +149,114 @@ Dowhaniuk, D. Eds: **Porter, E.**, Ponte, A., Yu, A., Hiemstra, H., Jandrew, S.,
 **Co-curator** with collaborators Dowhaniuk, D., Ponte, A., Yu, A., Hiemstra, H., Jandrew, S.\
 Zavitz Gallery, University of Guelph. Guelph, ON.
 
--   An immersive exhibition exploring speculative futures at the intersection of art, technology, and nature to address the climate crisis. Served as the public-facing centrepiece of an international research initiative supported by the Government of Canada’s New Frontiers in Research Fund. Featured interactive installations, speculative prototypes, and imaginative storytelling envisioning how humanity might adapt to ecological collapse through nature-inspired technologies.
+-   An immersive exhibition exploring speculative futures at the intersection of art, technology, and nature to address the climate crisis. Served as the public-facing culmination of an international research initiative supported by the Government of Canada’s New Frontiers in Research Fund. Featured interactive installations, speculative prototypes, and imaginative storytelling envisioning how humanity might adapt to ecological collapse through nature-inspired technologies.
+
+## Teaching
+
+### Invited University Lectures - University of Guelph
+
+2024-11, **Integrative Vertebrate Biology ZOO 4010**, Pathways to Graduate School in Ecology.
+
+2024-10, **Advanced Philosophy of the Environment PHIL 4040**, Citizen Science as a Way of Knowing.
+
+2022-03, **Natural History of the Great Lakes ENVS 1040**, Squirrels as a Gateway to Nature Connectedness.
+
+
+### Course Delivery and Training
+
+Jan. 2021 – Apr. 2021: Discovering Biodiversity BIOL 1070, University of Guelph, Guelph ON. **Role: Course Co-Coordinator.**\
+Part of the Course Coordination team formed ad hoc when the original course coordinator had to unexpectedly step back. 
+
+Mar. 2019 – Apr. 2019: Junior Naturalists Outdoor Education Program, University of Guelph Arboretum, Guelph ON. **Role: Outdoor Educator.**\
+After school outdoor education program for children ages 6-12. Developed and led nature-based education programming for the University of Guelph Arboretum. 
+
+Jan. 2018 – Jan. 2024: Raptor Husbandry and Behaviour, Wild Ontario, Guelph ON. **Role: Team Lead and Trainer.**\
+Primary trainer for 7 trainees. Coordinated training schedules, conducted evaluations, communicated progress to Program Director, and prepared for final evaluations to confirm successful completion and transfer from trainee to Raptor Handler. 
+
+Jul. 2013 – Dec. 2016: Lifesaving Society Aquatic Leadership Course Instructor, City of Cambridge, Cambridge, ON. **Role: Instructor.**\
+Trained over 50 participants (aged teen to adult) in essential aquatic lifesaving skills, including emergency water rescues and first aid.
+
+Dec. 2011 – Dec. 2016: Canadian Red Cross Aquatic Course Instructor, City of Cambridge, Cambridge, ON. **Role: Instructor.** 
+
+
+### Course Review and Development
+Jan. 2025 – Apr. 2025: **Course Revision,** Humans in the Natural World BIOL 1500\
+Revision of content and online learning modules to improve relevance and timeliness of course content. 
+
+Jan. 2023: **Course Revision,** Discovering Biodiversity BIOL 1070\
+Updated experiential learning project (Squirrel Life Project) modules based on student feedback. 
+
+Aug. 2022: **Course Review,** Internship in Biological Science BIOL 3660\
+Critically reviewed assessment instructions and evaluation criteria and provided recommendations for evidence-based improvement. 
+
+Dec. 2021 – Jan. 2022: **Course Development,** Discovering Biodiversity BIOL 1070\
+Developed novel, evidence-based experiential learning modules and assessments to deliver core curriculum. 
+
+Sep. 2020 – Dec. 2020: **Course Revision,** Discovering Biodiversity BIOL 1070\
+Adapted course modules and revised content for virtual delivery during the COVID-19 pandemic. 
+
+
+
+### Teaching Assistantships - University of Guelph
+**Introduction to One Health**, ONEH 1000\
+*(Jan. 2026 - present)*
+
+**Humans in the Natural World**, BIOL 1500\
+*(Sep. - Dec. 2022; Sep. - Dec. 2023; Jan. - Apr. 2025)*
+
+**Discovering Biodiversity**, BIOL 1070\
+*(Sep. – Dec. 2020; Jan. – Apr. 2021; Sep. – Dec. 2021; Jan. – Apr. 2023)*
+
+**Internship in Biological Science**, BIOL 3660\
+*(May – Aug. 2022)*
+
+**Ecology**, BIOL 2060\
+*(May – Aug. 2022)*
+
+
+### Tutoring
+Sep. 2015 - Apr. 2016. Private instruction to undergraduate students to improve academic performance in biology, math, physics, chemistry, biochemistry, and English language skills. Worked with students to identify challenges, set goals, and implement solutions.
+
+## Committees
+
+### Executive Roles
+**Invited Speaker Organizing Committee** (Sep. - Nov. 2025), **Role: Co-Chair**\
+Department of Integrative Biology, University of Guelph, Guelph ON. (Departmental service.) 
+
+**Poultry Club** (Sep. 2017 - Apr. 2018), **Role: Breeding Program Coordinator**\
+Ontario Agricultural College, University of Guelph. (College service.)\
+Coordinated the Arkell Heritage Poultry Breed Breeding Program for 40 participants.
+
+**Circle K International - Guelph Chapter Executive Council** (Sep. 2016 - Apr. 2017), **Role: Vice President - Fundraising**\
+Kiwanis Canada, University of Guelph, Guelph ON. (Institutional service.)
+
+### Committee Member
+:::{.content-hidden}
+**Student Committee** (Jan. 2026 - present), **Role: Member**\
+Society of Canadian Ornithologists (SCO-SOC), Canada.
+:::
+
+**Website Committee** (Sep. 2025 - present), **Role: Member**\
+Society of Canadian Ornithologists (SCO-SOC), Canada. Review, revise, and create new website content to ensure accessibility, relevance, and usefulness of website information. (Professional Society service.)
+
+**Admissions and Progress Committee** (Sep. 2024 - present), **Role: Graduate Student Representative**\
+Board of Graduate Studies, University of Guelph, Guelph ON. (Institutional service.)
+
+**Teaching and Experiential Learning Committee** (Sep. 2021 - Aug. 2022), **Role: Graduate Student Representative**\
+Department of Integrative Biology, University of Guelph, Guelph ON. (Departmental service.)
+
+## Professional and Other Memberships
+-   Society of Canadian Ornithologists. (National). (Feb. 2025 – present)
+-   Ontario Bird Banding Association. (Regional). (Feb. 2025 – present)
+-   Galt Horticultural Society. (Local). (Jan. 2024 – present)
+-   Ontario Field Ornithologists. (Regional). (Oct. 2023 – present)
+-   Ontario Chapter of the Wildlife Society. (Regional). (Mar. 2022 – present)
+-   Guelph Horticultural Society. (Local). (Jan. 2022 – Dec. 2024)
+-   Canadian Society for Ecology and Evolution. (National). (Jun. 2021 – Dec. 2022)
+-   Guelph Institute for Environmental Research - Early Career Affiliate. (Institutional). (Nov. 2020 – Jun. 2023)
+-   Poultry Club, University of Guelph. (Institutional). (Sep. 2016 – Apr. 2018)
+-   Circle K International – Guelph Chapter. (Institutional). (Sep. 2016 – Apr. 2017)
+
+
+
+
