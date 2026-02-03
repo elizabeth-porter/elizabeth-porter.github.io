@@ -13,7 +13,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - digital_garden.qmd
       - cv.qmd
     right:
       - icon: github

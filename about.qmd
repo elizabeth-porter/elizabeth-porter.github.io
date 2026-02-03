@@ -3,4 +3,4 @@ title: "About"
 toc: true
 ---
 
-Under construction! Come back soon!
+Coming soon...
