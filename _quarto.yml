@@ -13,14 +13,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - cv.qmd
+      - href: files/Elizabeth_Porter_CV.pdf
+        text: CV
+        target: "_blank"
+    
     right:
       - icon: github
         href: http://github.com/elizabeth-porter
-        target: "_blank"
-      - icon: linkedin
-        href: https://www.linkedin.com/in/elizabeth-porter-794771178/
         target: "_blank"
 
 
