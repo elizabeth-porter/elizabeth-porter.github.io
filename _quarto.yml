@@ -7,6 +7,7 @@ project:
 
 website:
   title: "Elizabeth Porter"
+  #google-analytics: 
   navbar:
     pinned: true
     left:
