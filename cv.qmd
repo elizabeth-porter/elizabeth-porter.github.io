@@ -3,4 +3,4 @@ title: "CV"
 toc: true
 ---
 
-\[view pdf document\]
+For a complete record of my experiences, you can [click here to view my full CV.](files/Elizabeth_Porter_CV.pdf){target="_blank"}
